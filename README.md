@@ -1,3 +1,12 @@
+
+![486d3894-cf72-490e-bcaf-f16c81e65dab](https://github.com/gerzson-pszota/tribes/assets/138587246/214ab1dd-f243-4eca-a1fe-66b04495ebec)
+
+![3b9a9cd5-a21a-4a84-8052-d3c9fab1042d](https://github.com/gerzson-pszota/tribes/assets/138587246/39889223-77a6-4e9a-9e24-62a15ffabd8f)
+
+![e774fc77-9426-45a5-bcd3-eab1eedca667](https://github.com/gerzson-pszota/tribes/assets/138587246/b05894a6-cbb3-4f88-ada5-91a7e7700d05)
+
+
+
 # avus-tribes-backend
 
 - [Dependencies](#dependencies)
